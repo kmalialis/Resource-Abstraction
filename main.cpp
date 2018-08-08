@@ -1,6 +1,6 @@
 /*
 DESCRIPTION
-C++ implementation of the Beach Problem Domain (BPD) and Resource abstraction. Resource abstraction aims at solving congestion / resource management problems by allocating the available resources into abstract groups. This abstraction creates new reward functions that provide a more informative signal to the reinforcement learning (RL) agents and aid the coordination amongst them. The RL implementation is found in "qlearning.h".
+C++ implementation of the Beach Problem Domain (BPD) and Resource abstraction. Resource abstraction aims at solving multiagent congestion / resource management problems by allocating the available resources into abstract groups. This abstraction creates new reward functions that provide a more informative signal to the reinforcement learning (RL) agents and aid the coordination amongst them. The RL implementation is found in "qlearning.h".
 
 PAPER
 Please cite our work as follows:
